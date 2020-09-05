@@ -5,6 +5,9 @@
 </a>
 <img src="https://akumengroup.com/wp-content/uploads/2020/02/Animation-1.gif" width="500" height="300" align="right" />
 
+<br />
+<br />
+
 Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
 - 🔭 I’m currently working as **Software Engineer** with **[JIVA InfoTech Inc](http://www.jivainfotech.com/)** 
