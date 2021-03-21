@@ -40,3 +40,5 @@ Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
 <a href="https://www.youracclaim.com/earner/earned/badge/b023bc67-026f-43ee-b0c5-7d3980e3e62a" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" alt="DELL_ISMV3" width="100" height="100" align="left" /></a>
 
+<a href="https://www.youracclaim.com/badges/99c1ee23-893d-45bf-bb94-711fa266e873" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Admin" width="100" height="100" align="left" /></a>
+
