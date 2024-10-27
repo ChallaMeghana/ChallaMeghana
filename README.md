@@ -10,15 +10,14 @@
 
 Hi, I'm a passionate self-taught **Devops Engineer** from India.
 
-- 🔭 I’m currently working as **Software Engineer** with **[JIVA InfoTech Inc](http://www.jivainfotech.com/)** 
+- 🔭 I’m currently working as **Senior Devops Engineer** with **[Versetal Cloud RMM Solutions Pvt. Ltd](https://versetalinfo.com)** 
 
 
 ### Languages and Tools:
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terraform" width="26px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
-<img align="left" alt="Azure DevOps" width="26px" src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/Azure%20DevOps.png" />
+<img align="left" alt="Terraform" width="26px" src="https://cdn.prod.website-files.com/6340ceb04078362242dd4eb9/636131fe1f44d41e7af2eb78_terraform-logo.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png" />
 <img align="left" alt="ELK" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" />
